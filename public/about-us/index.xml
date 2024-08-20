@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About Us on childrens sanctuary namibia</title><link>https://gohugo-theme-ananke.pages.dev/about-us/</link><description>Recent content in About Us on childrens sanctuary namibia</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 07 Apr 2015 10:58:08 -0400</lastBuildDate><atom:link href="https://gohugo-theme-ananke.pages.dev/about-us/index.xml" rel="self" type="application/rss+xml"/><item><title>Background</title><link>https://gohugo-theme-ananke.pages.dev/about-us/background/</link><pubDate>Tue, 07 Apr 2015 10:58:08 -0400</pubDate><guid>https://gohugo-theme-ananke.pages.dev/about-us/background/</guid><description>HIV has been the leading cause of death in Namibia for a decade leaving many children orphaned and vulnerable, particularly the children of the San (Bushman) of Eastern Namibia. These children are the most impoverished and underserved in the entire country.
-A study made in Drimiopsis in 2013 identified 14 double parent orphans and 71 single parent orphans. There are many orphans and vulnerable children undocumented, with no parent or guardian present in their lives to provide the information required for documentation.</description></item><item><title>History</title><link>https://gohugo-theme-ananke.pages.dev/about-us/history/</link><pubDate>Tue, 07 Apr 2015 10:58:08 -0400</pubDate><guid>https://gohugo-theme-ananke.pages.dev/about-us/history/</guid><description>In February 2013, we were established as an organization. Long before that, since May 2012, Theresa Matengu, a high school teacher, had been feeding about 30 children out of her kitchen every Saturday. Helge Mercker offered to join her in the efforts of supporting the children in Drimiopsis. Shortly thereafter, dear friends in Canada, Australia, USA and other places began to generously support us by sending the money we desperately needed to expand our feeding program.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About Us on childrens sanctuary namibia</title>
+    <link>https://gohugo-theme-ananke.pages.dev/about-us/</link>
+    <description>Recent content in About Us on childrens sanctuary namibia</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 07 Apr 2015 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://gohugo-theme-ananke.pages.dev/about-us/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Background</title>
+      <link>https://gohugo-theme-ananke.pages.dev/about-us/background/</link>
+      <pubDate>Tue, 07 Apr 2015 10:58:08 -0400</pubDate>
+      <guid>https://gohugo-theme-ananke.pages.dev/about-us/background/</guid>
+      <description>HIV has been the leading cause of death in Namibia for a decade leaving many children orphaned and vulnerable, particularly the children of the San (Bushman) of Eastern Namibia. These children are the most impoverished and underserved in the entire country.&#xA;A study made in Drimiopsis in 2013 identified 14 double parent orphans and 71 single parent orphans. There are many orphans and vulnerable children undocumented, with no parent or guardian present in their lives to provide the information required for documentation.</description>
+    </item>
+    <item>
+      <title>History</title>
+      <link>https://gohugo-theme-ananke.pages.dev/about-us/history/</link>
+      <pubDate>Tue, 07 Apr 2015 10:58:08 -0400</pubDate>
+      <guid>https://gohugo-theme-ananke.pages.dev/about-us/history/</guid>
+      <description>In February 2013, we were established as an organization. Long before that, since May 2012, Theresa Matengu, a high school teacher, had been feeding about 30 children out of her kitchen every Saturday. Helge Mercker offered to join her in the efforts of supporting the children in Drimiopsis. Shortly thereafter, dear friends in Canada, Australia, USA and other places began to generously support us by sending the money we desperately needed to expand our feeding program.</description>
+    </item>
+  </channel>
+</rss>
