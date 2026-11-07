@@ -1,0 +1,2 @@
+{{/* Ask the browser to fetch the header image right away instead of after the style sheet */}}
+{{ with partial "func/GetFeaturedImage.html" . }}<link rel="preload" as="image" href="{{ . }}" fetchpriority="high">{{ end }}
